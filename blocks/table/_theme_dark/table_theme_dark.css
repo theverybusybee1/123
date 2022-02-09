@@ -1,0 +1,7 @@
+.table_theme_dark {
+  min-height: 350px;
+  padding-top: 80px;
+  padding-bottom: 90px;
+  color: #fff;
+  z-index: 1;
+}
